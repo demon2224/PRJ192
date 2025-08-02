@@ -1,0 +1,8 @@
+controller\LoginServlet.class
+model\Movies.class
+model\Users.class
+controller\LogoutServlet.class
+dao\UsersDAO.class
+dao\MoviesDAO.class
+controller\MoviesServlet.class
+utils\DBContext.class

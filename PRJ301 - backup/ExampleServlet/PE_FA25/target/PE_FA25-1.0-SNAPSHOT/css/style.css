@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+.nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #F8F9FA;
+    padding: 5px;
+
+}
+a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 400;
+    float:  right;
+}
+li {
+    list-style-type: none;
+}
+ul {
+    margin: 0px;
+}
+.nav-tilte {
+    padding-right: 20px;
+    float:  right;
+}
+.nav-tilte a {
+    color: #737374;
+}
+.movies {
+    padding: 20px 70px;
+}
+.login {
+    text-align: center;
+    margin-top: 30px;
+}
+.container-login {
+    max-width: 650px;
+}

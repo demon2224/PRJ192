@@ -1,0 +1,9 @@
+controller\LoginServlet.class
+model\Applicant.class
+dao\JobDAO.class
+dao\ApplicantDAO.class
+controller\LogoutServlet.class
+controller\JobServlet.class
+model\Job.class
+utils\DBContext.class
+model\Application.class

@@ -1,0 +1,8 @@
+model\Cows.class
+controller\ViewedCowsController.class
+controller\UpdateCowController.class
+controller\AccountController.class
+dao\AccountDAO.class
+model\Account.class
+utils\DBContext.class
+dao\CowDAO.class
